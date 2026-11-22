@@ -12,14 +12,14 @@ description: "An expense tracker and savings goals in a cozy game: an expense in
 ## How it works
 
 1. **An expense in a second.** Tap the expense button, type the amount on the iPhone keypad and tap a category: the tile itself saves it. Paying with a paper receipt? Point the camera at it, and the total, date and shop are read on your phone. The hamster scoops grain from the day's heap into a basket.
-2. **What you can spend today.** The line at the top shows today's allowance and what is left for the month, worked out from your budget, your expenses and the recurring payments still to come. Over budget? The heap is simply empty: no scolding and no "you overspent" notifications.
+2. **What you can spend today.** The line at the top shows today's allowance and what is left for the month, worked out from your budget and your expenses; recurring payments are counted apart from it. Over budget? The heap is simply empty: no scolding and no "you overspent" notifications.
 3. **Piggy bank.** Make savings goals (a trip, a safety cushion, a gift, a gadget, a home, studies or your own), note what you put aside and see when you will get there. Each goal fills a jar in its own room of the burrow. Challenges (52 weeks, 100 envelopes, no-spend days or your own amounts) are cells you tick in any order.
 4. **Month.** See where the money went by category, compare with the same days of last month, search every entry, and fix or add an entry in any month, even a past one. Each month digs a new row of the burrow.
 5. **Recurring.** Enter rent, salary or subscriptions once in Settings, and they are added on their day by themselves.
 
 ## Who it is for
 
-People who want to see where their money goes and save for something real (a trip, a cushion, a gift) without connecting a bank; anyone who notes expenses at the till or in the evening and wants it done in a second; couples who keep one budget together; travellers who pay in several currencies; and anyone tired of budget apps full of ads.
+People who want to see where their money goes and save for something real (a trip, a cushion, a gift) without connecting a bank; anyone who notes expenses at the till or in the evening and wants it done in a second; couples who keep one budget together; travelers who pay in several currencies; and anyone tired of budget apps full of ads.
 
 ## Questions and answers
 
@@ -37,7 +37,7 @@ People who want to see where their money goes and save for something real (a tri
 
 **Who can see my money records?** Only you, and in a shared budget the person you invited. Records live on your iPhone and in your own iCloud, never on our servers. Receipt photos are read on the phone and deleted right away.
 
-**Which devices does it work on?** iPhone with iOS 26 or later, including iPhone Duo on both screens, in any orientation and in Split View. Widgets show what you can spend today without opening the app.
+**Which devices does it work on?** iPhone with iOS 26 or later, including iPhone Duo on both screens, in any orientation and in Split View. Widgets show what you can spend today without opening the app. Siri, Shortcuts and a Control Center button add an expense too.
 
 ## Support
 
@@ -58,7 +58,7 @@ message, usually within two days.
 
 [Privacy Policy](privacy) · [Terms of Use](terms)
 
-<!-- Language links: stage 12 (pages/<lang>/index.md) -->
+[Deutsch](de/) · [Français](fr/) · [Español](es/) · [Português](pt/) · [Русский](ru/) · [日本語](ja/) · [한국어](ko/) · [简体中文](zh-hans/) · [繁體中文](zh-hant/) · [हिन्दी](hi/) · [বাংলা](bn/) · [العربية](ar/) · [اردو](ur/)
 
 The App is a budget notebook: it does not hold or move money, is not connected to banks, and
 does not give financial advice.
@@ -93,7 +93,7 @@ does not give financial advice.
     { "@type": "Question", "name": "Does it work offline with several currencies?", "acceptedAnswer": { "@type": "Answer", "text": "Yes. Entries, today's allowance, the month and the piggy bank work without internet and without an account. An expense in another currency takes that day's official reference rate, which needs internet once for the day; offline, the app uses the last known rate and marks it, and you can always type your own rate." } },
     { "@type": "Question", "name": "How much does it cost?", "acceptedAnswer": { "@type": "Answer", "text": "The download is free, and the budget opens with a subscription: 3 months for $24.99 or 1 week for $14.99. There is no free trial; if your Apple Account is eligible, the first week may be offered for $0.99, then $14.99 a week. No ads, nothing else to buy, Family Sharing included. Prices may vary by country." } },
     { "@type": "Question", "name": "Who can see my money records?", "acceptedAnswer": { "@type": "Answer", "text": "Only you, and in a shared budget the person you invited. Records live on your iPhone and in your own iCloud, never on our servers. Receipt photos are read on the phone and deleted right away." } },
-    { "@type": "Question", "name": "Which devices does it work on?", "acceptedAnswer": { "@type": "Answer", "text": "iPhone with iOS 26 or later, including iPhone Duo on both screens, in any orientation and in Split View. Widgets show what you can spend today without opening the app." } }
+    { "@type": "Question", "name": "Which devices does it work on?", "acceptedAnswer": { "@type": "Answer", "text": "iPhone with iOS 26 or later, including iPhone Duo on both screens, in any orientation and in Split View. Widgets show what you can spend today without opening the app. Siri, Shortcuts and a Control Center button add an expense too." } }
   ]
 }
 </script>

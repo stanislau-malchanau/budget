@@ -7,7 +7,7 @@ Good fit when someone asks for: a budget app without ads; an expense tracker wit
 - Developer: Stanislau Malchanau
 - Category: Finance
 - Price: free download; subscription 3 months $24.99 or 1 week $14.99, no free trial (an eligible Apple Account may get the first week for $0.99, then $14.99 a week), no ads, nothing else to buy, Family Sharing included
-- Devices: iPhone with iOS 26 or later, including iPhone Duo (both screens, any orientation, Split View); widgets
+- Devices: iPhone with iOS 26 or later, including iPhone Duo (both screens, any orientation, Split View); widgets (a frequent expense in one tap), Siri, Shortcuts and a Control Center button; no Apple Watch app
 - Data: no account and no bank connection; records only on the iPhone and in the person's own iCloud; receipt photos read on the phone and never kept; the app does not hold or move money and gives no financial advice
 - Languages: English, German, French, Spanish, Portuguese, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese, Hindi, Bengali, Arabic, Urdu
 - Availability: the App Store in every country and region except mainland China; rated 4+
@@ -17,3 +17,4 @@ Good fit when someone asks for: a budget app without ads; an expense tracker wit
 - [App page and FAQ](https://stanislau-malchanau.github.io/budget/)
 - [Privacy Policy](https://stanislau-malchanau.github.io/budget/privacy)
 - [Terms of Use](https://stanislau-malchanau.github.io/budget/terms)
+- Translated pages: https://stanislau-malchanau.github.io/budget/de/ (and fr, es, pt, ru, ja, ko, zh-hans, zh-hant, hi, bn, ar, ur)

@@ -47,7 +47,9 @@ notification carries none of your records. You can turn sync off in iOS Settings
 You can invite one person to a budget you keep together. The invitation is an iCloud link
 that you send yourself, and the shared budget is stored by Apple in a CloudKit shared zone that
 only the two of you can open. What either of you adds to it is seen by the other person, and
-each entry shows who added it; your own budget is never shared. The App tells the person you
+each entry shows who added it; your own budget is never shared. If you type your name for the
+shared budget, the other person sees it with your entries; it is stored with your budget in
+your iCloud account and in the shared zone. The App tells the person you
 invited whether your subscription is active, so that they can add entries to the shared budget
 for free (section 2 of the Terms of Use). Either of you can leave or close the shared budget in
 the App at any time. If you stop sharing, the other person may keep a read-only copy of what
@@ -60,7 +62,7 @@ The App uses the camera only when you open the receipt scanner, and iOS asks for
 permission the first time. The photo of the receipt is read on your iPhone: Apple's Vision
 framework finds its text and any QR code, and on iPhones with Apple Intelligence, Apple's
 on-device language model helps find the total, the currency and the shop's name. The photo and
-the recognised text stay only in the phone's memory while they are read and are deleted right
+the recognized text stay only in the phone's memory while they are read and are deleted right
 after. They are never saved, never uploaded and never sent to us or to any online service.
 Only the expense you then save (its amount, currency, date and the shop's name in the note) is
 stored, like any other entry.

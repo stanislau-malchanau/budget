@@ -37,7 +37,7 @@ devices that you own or control, as allowed by the App Store Terms of Service.
   least 24 hours before the end of the current period. Your account is charged for renewal
   within 24 hours before the period ends.
 - You can manage or cancel the subscription in iOS Settings > [your name] > Subscriptions, or
-  in the App under Settings > Subscription. Cancelling stops the next renewal; the current
+  in the App under Settings > Subscription. Canceling stops the next renewal; the current
   period stays active.
 - The subscription can be shared with your family through Apple's Family Sharing.
 - A person you invite to a shared budget adds entries there for free while the person who
@@ -63,7 +63,7 @@ can spend today, come only from what you enter and the rules you set. A savings 
 challenge cell is a record of what you put aside yourself, not money kept by the App. Exchange
 rates are reference rates for keeping track and may differ from your bank's. The receipt
 scanner reads a photo as best it can, so check the amount before you save it. For important
-decisions about your money, rely on your own judgement or a qualified advisor.
+decisions about your money, rely on your own judgment or a qualified advisor.
 
 ## 5. Acceptable use
 
